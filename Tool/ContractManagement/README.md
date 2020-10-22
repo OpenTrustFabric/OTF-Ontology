@@ -1,4 +1,4 @@
-"Tool" is intended to be for relevant tools - CRM, Doc Assembly, databases, etc.  This might be better understood as part of "Model/".
+"ContractManagement" includes software that focuses on the management of contract relationships, often for enterprise.
 
 1. Suggested Subcategories
 
