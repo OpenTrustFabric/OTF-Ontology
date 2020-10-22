@@ -2,3 +2,8 @@
 
 URL.cl=https://software.worldcc.com/
 
+
+For Instance:
+
+Trakti=[https://software.worldcc.com/vendors?search=trakti]
+
