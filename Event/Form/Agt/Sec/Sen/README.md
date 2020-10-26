@@ -1,4 +1,4 @@
-Stub - Please Add:
+"Sen" - Sentences form sections. 
 
 1. Suggested Subcategories
 
@@ -7,3 +7,6 @@ Stub - Please Add:
 3. Links to existing resources - standards, ontologies, models
 
 Thanks.  
+
+
+
